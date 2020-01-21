@@ -107,7 +107,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
         - [Ebb & Flow](lessons/01-ebb-and-flow.md) overview
     - Homework
         - Get [book](#books)
-        - Find 3 examples of sites you like, and why
+        - Find 3 examples of sites you like and don't like, and why
 
 
 #### 01/27 Monday
