@@ -116,7 +116,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
     - Getting to Know Markdown and GitHub for Publishing on the Web
     - Work on Ebb & Flow
     - Homework
-        - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
+        - [Ebb & Flow](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
 
 #### 01/29 Wednesday
 
