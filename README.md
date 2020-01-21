@@ -197,7 +197,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ### Content First
 
-#### 02/26 Monday
+#### 02/26 Wednesday
 
 - Ebb & Flow
   - Odds and ends
@@ -214,7 +214,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
     - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
       - For color use colored markers or colored paper (Color-aid or construction)
 
-#### 02/28 Wednesday
+#### 03/02 Monday
 
 - Ebb & Flow
   - Final review (round 2)
@@ -231,17 +231,17 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
   - “Responsive Web Design”
       - Read: Chapter 2 — The Flexible Grid
 
-#### 03/05 Monday
+#### 03/04 Wednesday
 
-#### 03/07 Wednesday
+#### 03/09 Monday
 
-#### 03/19 Monday
+#### 03/11 Wednesday
 
 - Work in progress review
 
-#### 03/21 Wednesday
+#### 03/23 Monday
 
-#### 03/26 Monday
+#### 03/25 Wednesday
 
 - Content First
   - Final review (round 1)
@@ -250,42 +250,40 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ### Device Agnostic
 
-#### 03/28 Wednesday
+#### 03/30 Monday
 
 - Content First
   - Final review (round 2)
 - Device Agnostic
   - Kickoff meeting
 
-#### 04/02 Monday
+#### 04/01 Wednesday
 
-#### 04/04 Wednesday
+#### 04/06 Monday
 
 - Work in progress review
 
-#### 04/09 Monday
+#### 04/08 Wednesday
 
-#### 04/11 Wednesday
+#### 04/13 Monday
 
-#### 04/18 Wednesday
+#### 04/15 Wednesday
 
 - - -
 
 ### Single Serving
 
-#### 04/23 Monday
+#### 04/22 Wednesday
 
 - Kickoff meeting
 
-#### 04/25 Wednesday
+#### 04/27 Monday
 
-#### 04/30 Monday
+#### 04/29 Wednesday
 
 - Work in progress review
 
-#### 05/02 Wednesday
-
-#### 05/07 Monday
+#### 05/04 Monday
 
 - Final review
 
@@ -293,7 +291,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ### Final
 
-#### 05/09 Wednesday
+#### 05/06 Wednesday
 
 - Last day of class
     - Final and all projects published via GitHub by the end of class
