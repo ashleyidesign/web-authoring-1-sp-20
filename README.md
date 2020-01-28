@@ -1,5 +1,5 @@
 `GD 256`
-Hi!
+
 # Web Authoring 1: Markup & Style
 
 - [Syllabus](https://github.com/ashleyidesign/web-authoring-1-sp-20) (on GitHub)
