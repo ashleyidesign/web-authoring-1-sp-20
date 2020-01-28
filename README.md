@@ -1,5 +1,4 @@
 `GD 256`
-Hi May
 
 # Web Authoring 1: Markup & Style
 
