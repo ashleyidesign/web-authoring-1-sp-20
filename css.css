@@ -11,7 +11,8 @@ wrapper {
 .flex {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 /* Navigation */
@@ -36,4 +37,16 @@ nav a:hover {
     padding: 2em;
     text-decoration: none;
     color: white;
+}
+header.flex {
+    justify-content: space-between
+}
+
+/* Roster */
+.roster {
+    width: 25%;
+    margin: 1em;
+}
+.roster a {
+    padding: 5em 2em;
 }
