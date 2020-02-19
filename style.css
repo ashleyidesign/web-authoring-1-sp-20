@@ -1,0 +1,20 @@
+body {
+                max-width: 900px;
+                background-color: navy;
+                font-family: sans-serif;
+                margin: 0 auto;
+                color: #fff;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: wrap;
+            }
+            body > * {
+                width: 30%;
+            }
+            h1 {
+                color: red;
+            }
+            h1.whatever {
+                color: #03A9F4;
+            }
